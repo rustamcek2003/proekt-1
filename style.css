@@ -1,0 +1,302 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #F6F6F6;
+}
+.nav1{
+    width: 90%;
+    height: auto;
+    margin: 0px auto;
+}
+.nav2{
+    width: 90%;
+    display: flex;
+}
+.img{
+    margin-right: 6rem;
+    margin-top: 40px;
+}
+.suma{
+    display: flex;
+    margin-right: 20rem;
+}
+.suma p{
+    margin-top: 40px;
+    margin-right: 25px;
+}
+.lang{
+    display: flex;
+    background: darkgrey;
+    border-radius: 15px;
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+.input{
+    margin-right: 35px;
+    margin-top: 26px;
+
+}
+.input input{
+    border-radius: 30px;
+    padding: 5px 5px;
+    text-indent: 45px;
+    width: 275px;
+    height: 45px;
+}
+.lang p{
+    margin-top: 13px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.lang .ru:hover{
+    background-color: white;
+    border-radius: 15px;
+    transition: 2s;
+    
+}
+.lang .uz:hover{
+    background-color: white;
+    border-radius: 15px;
+    transition: 2s;
+}
+.lang{
+    margin-right:38px;
+}
+.button1 button{
+    margin-top: 25px;
+    margin-bottom: 35px;
+    border-radius: 15px;
+    background-color: #2959CE;
+    height: 45px;
+    width: 90px;
+    color: white;
+}
+input{
+    background: url(search.png) no-repeat 15px center;
+}
+main{
+    width: 90%;
+    margin: 25px auto;
+}
+.main1{
+    display: flex;
+}
+.p1{
+    margin-right: 72px;
+}
+hr{
+    margin-top: 15px;
+    border: 1px solid #D1D1D1;
+}
+.div1{
+    margin-right: 35px;
+    background-color: #F6F6F6;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+}
+.p2{
+    font-size: 20px;
+    width: 350px;
+    text-align: left;
+    margin-bottom: 15px;
+    color: #000000;
+    font-weight: bolder;
+}
+.p3{
+    width: 350px;
+    text-align: left;
+    margin-bottom: 15px;
+    color: #4A4B4C;
+}
+.main2{
+    display: flex;
+}
+.div2{
+    margin-right: 35px;
+    background-color: #F6F6F6;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+}
+.p4{
+    font-size: 20px;
+    width: 350px;
+    text-align: left;
+    margin-bottom: 15px;
+    color: #000000;
+    font-weight: bolder;
+}
+.p5{
+    width: 350px;
+    text-align: left;
+    margin-bottom: 15px;
+    color: #4A4B4C;
+}
+.div3{
+    margin-right: 35px;
+    background-color: #F6F6F6;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+}
+.p6{
+    font-size: 20px;
+    width: 350px;
+    text-align: left;
+    margin-bottom: 15px;
+    color: #000000;
+    font-weight: bolder;
+}
+.p7{
+    width: 350px;
+    text-align: left;
+    margin-bottom: 15px;
+    color: #4A4B4C;
+}
+.pp4 {
+    background: url(image\ 11.png) no-repeat 5px center;
+}
+.pp4 p{
+    margin-top: 10px;
+    text-indent: 35px;
+}
+.pp5{
+    background: url(image\ 12.png) no-repeat 5px center;
+}
+.pp5 p{
+    margin-top: 10px;
+    text-indent: 35px;
+}
+.pp7{
+    background: url(image\ 13.png) no-repeat 5px center;
+}
+.pp7 p{
+    margin-top: 10px;
+    text-indent: 35px;
+}
+
+.main3{
+    display: flex;
+}
+.div11{
+    margin-right: 35px;
+    background-color: #F6F6F6;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+}
+.ppp1{
+    font-size: 20px;
+    width: 350px;
+    text-align: left;
+    margin-bottom: 15px;
+    color: #000000;
+    font-weight: bolder;
+}
+.ppp2{
+    width: 350px;
+    text-align: left;
+    margin-bottom: 15px;
+    color: #4A4B4C;
+}
+.ppp3{
+    background: url(image\ 23.png) no-repeat 5px center;
+}
+.ppp3 p{
+    text-indent: 35px;
+    margin-top: 10px;
+}
+
+
+.div12{
+    margin-right: 35px;
+    background-color: #F6F6F6;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+}
+.ppp4{
+    font-size: 20px;
+    width: 350px;
+    text-align: left;
+    margin-bottom: 15px;
+    color: #000000;
+    font-weight: bolder;
+}
+.ppp5{
+    width: 350px;
+    text-align: left;
+    margin-bottom: 15px;
+    color: #4A4B4C;
+}
+.ppp7{
+    background: url(image\ 25.png) no-repeat 5px center;
+}
+.ppp7 p{
+    text-indent: 35px;
+    margin-top: 10px;
+}
+
+
+.div13{
+    margin-right: 35px;
+    background-color: #F6F6F6;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+}
+.ppp8{
+    font-size: 20px;
+    width: 350px;
+    text-align: left;
+    margin-bottom: 15px;
+    color: #000000;
+    font-weight: bolder;
+}
+.ppp9{
+    width: 350px;
+    text-align: left;
+    margin-bottom: 15px;
+    color: #4A4B4C;
+}
+.ppp11{
+    background: url(image\ 26.png) no-repeat 5px center;
+}
+.ppp11 p{
+    text-indent: 35px;
+    margin-top: 10px;
+}
+.div22{
+    background: url(Group\ 35.png) no-repeat center;
+    margin: 15px auto;
+    width: 80%;
+    display: flex;
+    height: 100px;
+}
+.div22 .pppp1{
+    padding-left: 35px;
+    padding-top: 25px;
+    margin-right: 450px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.button2 button{
+    margin-top: 25px;
+    margin-bottom: 35px;
+    border-radius: 15px;
+    background-color: #F78B3B;
+    height: 55px;
+    width: 150px;
+    color: white;
+}   
